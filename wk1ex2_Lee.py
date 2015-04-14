@@ -1,4 +1,5 @@
 # week 1 ex 2 Te-En Lee 861027623
+# repository https://github.com/tlee052/physics177.git
 import numpy as np
 import math
 import matplotlib.pyplot as plt
